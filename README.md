@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rajat Kumar Sah</h1>
 <h3 align="left">A passionate Full Stack Developer from India</h3>
-<img src="<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw28VcCtUHymWxt4WJ91c0uD&ust=1731688132498000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDFz5Of3IkDFQAAAAAdAAAAABAE" >
+<img src="<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw28VcCtUHymWxt4WJ91c0uD&ust=1731688132498000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDFz5Of3IkDFQAAAAAdAAAAABAE](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsah95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsah95" /> </p>
 
