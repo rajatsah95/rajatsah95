@@ -16,17 +16,6 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/Rajat-Sah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Rajat-Sah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajatsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajatsah" height="30" width="40" /></a>
-
-
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/ikbal-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ikbal-hussain" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/ikbalhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ikbalhussain" height="30" width="40" /></a>
-<a href="https://twitter.com/ikbalhssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikbalhssn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ikbal-hussain-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikbal-hussain-web-developer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ronek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ronek" height="30" width="40" /></a>
-<a href="https://medium.com/@ikbalhussainreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ikbalhussainreal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ikbalhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikbalhussain" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
