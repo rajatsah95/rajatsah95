@@ -23,8 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsah95&show_icons=true&locale=en&layout=compact" alt="rajatsah95" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajatsah95&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajatsah95&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsah95&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">GitHub Stats:</h3> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsah95&show_icons=true&locale=en&layout=compact" alt="rajatsah95" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsah95&show_icons=true&locale=en" alt="rajatsah95" /> </p>
 
