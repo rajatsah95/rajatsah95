@@ -23,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsah95&show_icons=true&locale=en&layout=compact" alt="rajatsah95" /></p>
 
-<h3 align="left">GitHub Stats:</h3> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masihm7&show_icons=true&locale=en&layout=compact" alt="masihm7" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=masihm7&show_icons=true&locale=en" alt="masihm7" /> </p> <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masihm7&" alt="masihm7" /> </p>
+<h3 align="left">GitHub Stats:</h3> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masihm7&show_icons=true&locale=en&layout=compact" alt="masihm7" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=masihm7&show_icons=true&locale=en" alt="masihm7" /> </p>
 
 
