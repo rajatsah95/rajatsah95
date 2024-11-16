@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rajat Kumar Sah</h1>
 <h3 align="left">A passionate Full Stack Developer from India</h3>
-<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" >
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsah95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsah95" /> </p>
 
