@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **Java HTML CSS JavaScript, React, Node.js**
+- 💬 Ask me about **Java, MySQL, MongoDB, HTML, CSS, JavaScript, React, Node.js**
 
 - 📫 How to reach me **rajatsah95@gmail.com**
 
